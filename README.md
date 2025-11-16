@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=你好+👋+欢迎来到我的GitHub;热爱技术与创新;让我们一起构建更好的Web世界;如果我的项目对你有帮助，欢迎+Star" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B+%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub;%E7%83%AD%E7%88%B1%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%88%9B%E6%96%B0;%E8%AE%A9%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E6%9E%84%E5%BB%BA%E6%9B%B4%E5%A5%BD%E7%9A%84Web%E4%B8%96%E7%95%8C;%E5%A6%82%E6%9E%9C%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE%E5%AF%B9%E4%BD%A0%E6%9C%89%E5%B8%AE%E5%8A%A9%EF%BC%8C%E6%AC%A2%E8%BF%8E+Star" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 关于我
@@ -74,11 +74,25 @@ const wuxingxi = {
 
 ## 📊 GitHub 统计
 
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 1rem; width: 100%;">
-  <img style="width: 100%; height: 150px;" src="https://github-readme-stats.vercel.app/api?username=wuxingxi888&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img style="width: 100%; height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuxingxi888&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
-  <img style="width: 100%; height: 150px;" src="https://streak-stats.demolab.com/?user=wuxingxi888&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-  <img style="width: 100%; height: 150px;" src="https://github-profile-trophy.vercel.app/?username=wuxingxi888&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophy" />
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=wuxingxi888&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuxingxi888&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://streak-stats.demolab.com/?user=wuxingxi888&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-trophy.vercel.app/?username=wuxingxi888&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophy" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
