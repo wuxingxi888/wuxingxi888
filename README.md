@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=你好+👋+欢迎来到我的GitHub;热爱技术与创新;让我们一起构建更好的Web世界;如果我的项目对你有帮助，欢迎 Star！" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=你好+👋+欢迎来到我的GitHub;热爱技术与创新;让我们一起构建更好的Web世界;如果我的项目对你有帮助，欢迎+Star" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 关于我
@@ -19,7 +19,7 @@ const wuxingxi = {
 
 ## 🛠️ 技术栈
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -74,15 +74,11 @@ const wuxingxi = {
 
 ## 📊 GitHub 统计
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wuxingxi888&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuxingxi888&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
- 
-</div>
-
-<div align="center">
- <img height="180em" src="https://streak-stats.demolab.com/?user=wuxingxi888&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=wuxingxi888&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophy" />
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 1rem; width: 100%;">
+  <img style="width: 100%; height: 100%; object-fit: fill; display: block;" src="https://github-readme-stats.vercel.app/api?username=wuxingxi888&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img style="width: 100%; height: 100%; object-fit: fill; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuxingxi888&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+  <img style="width: 100%; height: 100%; object-fit: fill; display: block;" src="https://streak-stats.demolab.com/?user=wuxingxi888&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+  <img style="width: 100%; height: 100%; object-fit: fill; display: block;" src="https://github-profile-trophy.vercel.app/?username=wuxingxi888&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophy" />
 </div>
 
 ---
