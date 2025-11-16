@@ -75,10 +75,10 @@ const wuxingxi = {
 ## 📊 GitHub 统计
 
 <div align="center" style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 1rem; width: 100%;">
-  <img style="width: 100%; height: 100%; object-fit: fill; display: block;" src="https://github-readme-stats.vercel.app/api?username=wuxingxi888&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img style="width: 100%; height: 100%; object-fit: fill; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuxingxi888&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
-  <img style="width: 100%; height: 100%; object-fit: fill; display: block;" src="https://streak-stats.demolab.com/?user=wuxingxi888&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-  <img style="width: 100%; height: 100%; object-fit: fill; display: block;" src="https://github-profile-trophy.vercel.app/?username=wuxingxi888&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophy" />
+  <img style="width: 100%; height: 150px;" src="https://github-readme-stats.vercel.app/api?username=wuxingxi888&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img style="width: 100%; height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuxingxi888&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+  <img style="width: 100%; height: 150px;" src="https://streak-stats.demolab.com/?user=wuxingxi888&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+  <img style="width: 100%; height: 150px;" src="https://github-profile-trophy.vercel.app/?username=wuxingxi888&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophy" />
 </div>
 
 ---
