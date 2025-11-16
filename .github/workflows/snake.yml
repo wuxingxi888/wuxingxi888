@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          ref: main
       
       - name: Generate snake animation
         uses: Platane/snk@master
@@ -25,12 +27,11 @@ jobs:
           github_user_name: wuxingxi888
           svg_out_path: dist/github-contribution-grid-snake.svg
       
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        if: always()
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          destination_dir: output
-          keep_files: false
+      - name: Push to main branch
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake animation" || exit 0
+          git push
 
