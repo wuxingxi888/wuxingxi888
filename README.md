@@ -1,12 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=你好+👋+欢迎来到我的GitHub;我是前端开发工程师;热爱技术与创新;让我们一起构建更好的Web世界" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=你好+👋+欢迎来到我的GitHub;热爱技术与创新;让我们一起构建更好的Web世界;如果我的项目对你有帮助，欢迎 Star！" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=wuxingxi888&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Header" />
-</div>
-
----
 
 ## 👨‍💻 关于我
 
@@ -38,34 +32,6 @@ const wuxingxi = {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
-
----
-
-## 📊 GitHub 统计
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wuxingxi888&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuxingxi888&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=wuxingxi888&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=wuxingxi888&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=1&column=8" alt="GitHub Trophy" />
-</div>
-
----
-
-## 📈 活动与贡献
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wuxingxi888&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wuxingxi888/wuxingxi888/main/dist/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
-</div>
-
----
 
 ## 🌟 精选项目
 
@@ -106,21 +72,29 @@ const wuxingxi = {
 
 ---
 
-## 💻 WakaTime 代码统计
+## 📊 GitHub 统计
 
-<!--START_SECTION:waka-->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wuxingxi888&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuxingxi888&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+ 
+</div>
 
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-> 💡 **提示**: WakaTime 统计需要配置 GitHub Actions 和 WakaTime API Key
+<div align="center">
+ <img height="180em" src="https://streak-stats.demolab.com/?user=wuxingxi888&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=wuxingxi888&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophy" />
+</div>
 
 ---
 
+## 📈 活动与贡献
+
 <div align="center">
-  <h3>⭐️ 如果我的项目对你有帮助，欢迎 Star！</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=42&text=Thanks%20for%20visiting!&fontColor=fff&animation=twinkling" alt="Footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wuxingxi888&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="GitHub Activity Graph" />
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wuxingxi888/wuxingxi888/main/dist/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+</div>
+
+---
