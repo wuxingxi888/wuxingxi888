@@ -175,6 +175,11 @@ const wuxingxi = {
 ## 💻 WakaTime 代码统计
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 > 💡 **提示**: WakaTime 统计需要配置 GitHub Actions 和 WakaTime API Key，详见下方配置说明
